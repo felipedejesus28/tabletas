@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420418100419",
+    "project_id": "tabletas-429a5",
+    "storage_bucket": "tabletas-429a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420418100419:android:829d7aef8d8c3dc4829676",
+        "android_client_info": {
+          "package_name": "com.misproyectos.tabletas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420418100419-r5oanoeqr5u4mi920hfr7m3uri73ltn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64doXZGzhDwz-_VsaEm3W1dk49pEZrfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420418100419-r5oanoeqr5u4mi920hfr7m3uri73ltn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
